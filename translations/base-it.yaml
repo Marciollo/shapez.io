@@ -290,7 +290,7 @@ ingame:
                 suo orientamento."
             2_2_place_trash: Il taglierino può <strong>intasarsi e
                 bloccarsi</strong>!<br><br> Usa un <strong>cestino</strong> per
-                sbarazzarti delgli scarti (!) inutilizzati.
+                sbarazzarti degli scarti (!) inutilizzati.
             2_3_more_cutters: "Ben fatto! Ora posiziona <strong>altri 2 taglierini</strong>
                 per velocizzare questo lento processo!<br><br> PS: Usa i numeri
                 <strong>da 0 a 9 </strong> per selezionare gli edifici più in
@@ -581,7 +581,7 @@ storyRewards:
             sopra a sotto <strong>indipendentemente dal suo
             orientamento</strong>!<br><br> Assicurati di buttare via lo scarto,
             sennò <strong>si intaserà e andrà in stallo </strong> - Per questo
-            ti ho dato il <strong>certino</strong>, che distrugge tutto quello
+            ti ho dato il <strong>cestino</strong>, che distrugge tutto quello
             che riceve!
     reward_rotater:
         title: Rotazione
@@ -590,10 +590,10 @@ storyRewards:
     reward_painter:
         title: Verniciatura
         desc: "Il <strong>verniciatore</strong> è stato sbloccato! Estrai dai giacimenti
-            colorate (esattamente come fai con le forme) e combina il colore con
-            una forma nella veniciatrice per colorarla!<br><br>PS: Se sei
+            colorati (esattamente come fai con le forme) e combina il colore con
+            una forma nella verniciatrice per colorarla!<br><br>PS: Se sei
             daltonico, c'è la <strong>modalità daltonici </strong> nelle
-            impostazion!"
+            impostazioni!"
     reward_mixer:
         title: Mix colori
         desc: Il <strong>miscelatore</strong> è stato sbloccato! Con questo edificio,
